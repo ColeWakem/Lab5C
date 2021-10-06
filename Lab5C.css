@@ -1,0 +1,36 @@
+body{
+  background-color:Green;
+}
+
+#wrapper{
+  width:1500px;
+  margin:0 auto;
+  background-color:Green;
+}
+
+#Body1{
+  float:left;
+  height:400px;
+  background-color:Blue;
+  width:400px;
+}
+
+#Body2{
+  float:right;
+  height:400px;
+  background-color:red;
+  width:400px;
+}
+
+#inv{
+  margin:0 auto;
+  height:400px;
+  width:400px;
+}
+
+#Body3{
+  margin:0 auto;
+  height:400px;
+  background-color:yellow;
+  width:400px;
+}
